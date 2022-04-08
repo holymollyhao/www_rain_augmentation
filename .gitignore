@@ -1,0 +1,9 @@
+data/
+.idea/
+common/__pycache__
+3rdparty/rainstreakdb
+*.pyc
+*.prof
+*.lprof
+automate_error_*.txt
+automate_log_*.txt
